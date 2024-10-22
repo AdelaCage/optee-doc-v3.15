@@ -67,7 +67,7 @@ Roughly start with this 2-3 weeks before the targeted release date.
 tl;dr
 =====
 .. list-table:: Short version of the OP-TEE release procedure
-    :widths: 60 300 10
+    :widths: 25 60 60
     :header-rows: 1
 
     * - When
